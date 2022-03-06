@@ -1,0 +1,16 @@
+D:\College\Spring\Advanced OOP\Labs\Projects\Temperature\bin\Debug\net5.0\Temperature.exe
+D:\College\Spring\Advanced OOP\Labs\Projects\Temperature\bin\Debug\net5.0\Temperature.deps.json
+D:\College\Spring\Advanced OOP\Labs\Projects\Temperature\bin\Debug\net5.0\Temperature.runtimeconfig.json
+D:\College\Spring\Advanced OOP\Labs\Projects\Temperature\bin\Debug\net5.0\Temperature.runtimeconfig.dev.json
+D:\College\Spring\Advanced OOP\Labs\Projects\Temperature\bin\Debug\net5.0\Temperature.dll
+D:\College\Spring\Advanced OOP\Labs\Projects\Temperature\bin\Debug\net5.0\ref\Temperature.dll
+D:\College\Spring\Advanced OOP\Labs\Projects\Temperature\bin\Debug\net5.0\Temperature.pdb
+D:\College\Spring\Advanced OOP\Labs\Projects\Temperature\obj\Debug\net5.0\Temperature.csprojAssemblyReference.cache
+D:\College\Spring\Advanced OOP\Labs\Projects\Temperature\obj\Debug\net5.0\Temperature.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\Spring\Advanced OOP\Labs\Projects\Temperature\obj\Debug\net5.0\Temperature.AssemblyInfoInputs.cache
+D:\College\Spring\Advanced OOP\Labs\Projects\Temperature\obj\Debug\net5.0\Temperature.AssemblyInfo.cs
+D:\College\Spring\Advanced OOP\Labs\Projects\Temperature\obj\Debug\net5.0\Temperature.csproj.CoreCompileInputs.cache
+D:\College\Spring\Advanced OOP\Labs\Projects\Temperature\obj\Debug\net5.0\Temperature.dll
+D:\College\Spring\Advanced OOP\Labs\Projects\Temperature\obj\Debug\net5.0\ref\Temperature.dll
+D:\College\Spring\Advanced OOP\Labs\Projects\Temperature\obj\Debug\net5.0\Temperature.pdb
+D:\College\Spring\Advanced OOP\Labs\Projects\Temperature\obj\Debug\net5.0\Temperature.genruntimeconfig.cache
