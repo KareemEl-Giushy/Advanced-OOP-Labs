@@ -1,0 +1,16 @@
+D:\College\Spring\Advanced OOP\Labs\Projects\OddAndEven\bin\Debug\net5.0\OddAndEven.exe
+D:\College\Spring\Advanced OOP\Labs\Projects\OddAndEven\bin\Debug\net5.0\OddAndEven.deps.json
+D:\College\Spring\Advanced OOP\Labs\Projects\OddAndEven\bin\Debug\net5.0\OddAndEven.runtimeconfig.json
+D:\College\Spring\Advanced OOP\Labs\Projects\OddAndEven\bin\Debug\net5.0\OddAndEven.runtimeconfig.dev.json
+D:\College\Spring\Advanced OOP\Labs\Projects\OddAndEven\bin\Debug\net5.0\OddAndEven.dll
+D:\College\Spring\Advanced OOP\Labs\Projects\OddAndEven\bin\Debug\net5.0\ref\OddAndEven.dll
+D:\College\Spring\Advanced OOP\Labs\Projects\OddAndEven\bin\Debug\net5.0\OddAndEven.pdb
+D:\College\Spring\Advanced OOP\Labs\Projects\OddAndEven\obj\Debug\net5.0\OddAndEven.csprojAssemblyReference.cache
+D:\College\Spring\Advanced OOP\Labs\Projects\OddAndEven\obj\Debug\net5.0\OddAndEven.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\Spring\Advanced OOP\Labs\Projects\OddAndEven\obj\Debug\net5.0\OddAndEven.AssemblyInfoInputs.cache
+D:\College\Spring\Advanced OOP\Labs\Projects\OddAndEven\obj\Debug\net5.0\OddAndEven.AssemblyInfo.cs
+D:\College\Spring\Advanced OOP\Labs\Projects\OddAndEven\obj\Debug\net5.0\OddAndEven.csproj.CoreCompileInputs.cache
+D:\College\Spring\Advanced OOP\Labs\Projects\OddAndEven\obj\Debug\net5.0\OddAndEven.dll
+D:\College\Spring\Advanced OOP\Labs\Projects\OddAndEven\obj\Debug\net5.0\ref\OddAndEven.dll
+D:\College\Spring\Advanced OOP\Labs\Projects\OddAndEven\obj\Debug\net5.0\OddAndEven.pdb
+D:\College\Spring\Advanced OOP\Labs\Projects\OddAndEven\obj\Debug\net5.0\OddAndEven.genruntimeconfig.cache
