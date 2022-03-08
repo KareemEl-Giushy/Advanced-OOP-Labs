@@ -1,0 +1,16 @@
+D:\College\Spring\Advanced OOP\Labs\Projects\SecondLargest\bin\Debug\net5.0\SecondLargest.exe
+D:\College\Spring\Advanced OOP\Labs\Projects\SecondLargest\bin\Debug\net5.0\SecondLargest.deps.json
+D:\College\Spring\Advanced OOP\Labs\Projects\SecondLargest\bin\Debug\net5.0\SecondLargest.runtimeconfig.json
+D:\College\Spring\Advanced OOP\Labs\Projects\SecondLargest\bin\Debug\net5.0\SecondLargest.runtimeconfig.dev.json
+D:\College\Spring\Advanced OOP\Labs\Projects\SecondLargest\bin\Debug\net5.0\SecondLargest.dll
+D:\College\Spring\Advanced OOP\Labs\Projects\SecondLargest\bin\Debug\net5.0\ref\SecondLargest.dll
+D:\College\Spring\Advanced OOP\Labs\Projects\SecondLargest\bin\Debug\net5.0\SecondLargest.pdb
+D:\College\Spring\Advanced OOP\Labs\Projects\SecondLargest\obj\Debug\net5.0\SecondLargest.csprojAssemblyReference.cache
+D:\College\Spring\Advanced OOP\Labs\Projects\SecondLargest\obj\Debug\net5.0\SecondLargest.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\Spring\Advanced OOP\Labs\Projects\SecondLargest\obj\Debug\net5.0\SecondLargest.AssemblyInfoInputs.cache
+D:\College\Spring\Advanced OOP\Labs\Projects\SecondLargest\obj\Debug\net5.0\SecondLargest.AssemblyInfo.cs
+D:\College\Spring\Advanced OOP\Labs\Projects\SecondLargest\obj\Debug\net5.0\SecondLargest.csproj.CoreCompileInputs.cache
+D:\College\Spring\Advanced OOP\Labs\Projects\SecondLargest\obj\Debug\net5.0\SecondLargest.dll
+D:\College\Spring\Advanced OOP\Labs\Projects\SecondLargest\obj\Debug\net5.0\ref\SecondLargest.dll
+D:\College\Spring\Advanced OOP\Labs\Projects\SecondLargest\obj\Debug\net5.0\SecondLargest.pdb
+D:\College\Spring\Advanced OOP\Labs\Projects\SecondLargest\obj\Debug\net5.0\SecondLargest.genruntimeconfig.cache
