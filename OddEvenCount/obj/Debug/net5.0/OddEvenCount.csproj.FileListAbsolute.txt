@@ -1,0 +1,16 @@
+D:\College\Spring\Advanced OOP\Labs\Projects\OddEvenCount\bin\Debug\net5.0\OddEvenCount.exe
+D:\College\Spring\Advanced OOP\Labs\Projects\OddEvenCount\bin\Debug\net5.0\OddEvenCount.deps.json
+D:\College\Spring\Advanced OOP\Labs\Projects\OddEvenCount\bin\Debug\net5.0\OddEvenCount.runtimeconfig.json
+D:\College\Spring\Advanced OOP\Labs\Projects\OddEvenCount\bin\Debug\net5.0\OddEvenCount.runtimeconfig.dev.json
+D:\College\Spring\Advanced OOP\Labs\Projects\OddEvenCount\bin\Debug\net5.0\OddEvenCount.dll
+D:\College\Spring\Advanced OOP\Labs\Projects\OddEvenCount\bin\Debug\net5.0\ref\OddEvenCount.dll
+D:\College\Spring\Advanced OOP\Labs\Projects\OddEvenCount\bin\Debug\net5.0\OddEvenCount.pdb
+D:\College\Spring\Advanced OOP\Labs\Projects\OddEvenCount\obj\Debug\net5.0\OddEvenCount.csprojAssemblyReference.cache
+D:\College\Spring\Advanced OOP\Labs\Projects\OddEvenCount\obj\Debug\net5.0\OddEvenCount.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\Spring\Advanced OOP\Labs\Projects\OddEvenCount\obj\Debug\net5.0\OddEvenCount.AssemblyInfoInputs.cache
+D:\College\Spring\Advanced OOP\Labs\Projects\OddEvenCount\obj\Debug\net5.0\OddEvenCount.AssemblyInfo.cs
+D:\College\Spring\Advanced OOP\Labs\Projects\OddEvenCount\obj\Debug\net5.0\OddEvenCount.csproj.CoreCompileInputs.cache
+D:\College\Spring\Advanced OOP\Labs\Projects\OddEvenCount\obj\Debug\net5.0\OddEvenCount.dll
+D:\College\Spring\Advanced OOP\Labs\Projects\OddEvenCount\obj\Debug\net5.0\ref\OddEvenCount.dll
+D:\College\Spring\Advanced OOP\Labs\Projects\OddEvenCount\obj\Debug\net5.0\OddEvenCount.pdb
+D:\College\Spring\Advanced OOP\Labs\Projects\OddEvenCount\obj\Debug\net5.0\OddEvenCount.genruntimeconfig.cache

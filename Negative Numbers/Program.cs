@@ -53,7 +53,6 @@ namespace Negative_Numbers
                 }
             }
 
-
             return negative;
         }
     }
