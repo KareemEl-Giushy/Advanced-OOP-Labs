@@ -16,19 +16,22 @@ namespace Linear_Search
             Console.WriteLine("What Do you Search For");
             int item = int.Parse(Console.ReadLine());
             
-            if(LinearSearch(arr, item))
-                Console.WriteLine("Found !");
+            Tuple<bool, short> t = LinearSearch(arr, item);
+            if(t.Item1 && t.Item2 != -1)
+                Console.WriteLine("Found ! at index: " + t.Item2);
             else
                 Console.WriteLine("Not Found :(");
         }
 
-        public static bool LinearSearch(int[] arr, int item) {
+        public static Tuple<bool, short> LinearSearch(int[] arr, int item) {
+            byte idx = 0;
             foreach (int i in arr) {
                 if(i == item) {
-                    return true;
+                    return Tuple.Create<bool, short>(true, idx); // return indx if found
                 }
+                idx++;
             }
-            return false;
+            return Tuple.Create<bool, short>(false, -1); // return -1 if not found
         }
     }
 }
