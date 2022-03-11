@@ -1,0 +1,16 @@
+D:\College\Spring\Advanced OOP\Labs\Projects\RightDiagonal\bin\Debug\net5.0\RightDiagonal.exe
+D:\College\Spring\Advanced OOP\Labs\Projects\RightDiagonal\bin\Debug\net5.0\RightDiagonal.deps.json
+D:\College\Spring\Advanced OOP\Labs\Projects\RightDiagonal\bin\Debug\net5.0\RightDiagonal.runtimeconfig.json
+D:\College\Spring\Advanced OOP\Labs\Projects\RightDiagonal\bin\Debug\net5.0\RightDiagonal.runtimeconfig.dev.json
+D:\College\Spring\Advanced OOP\Labs\Projects\RightDiagonal\bin\Debug\net5.0\RightDiagonal.dll
+D:\College\Spring\Advanced OOP\Labs\Projects\RightDiagonal\bin\Debug\net5.0\ref\RightDiagonal.dll
+D:\College\Spring\Advanced OOP\Labs\Projects\RightDiagonal\bin\Debug\net5.0\RightDiagonal.pdb
+D:\College\Spring\Advanced OOP\Labs\Projects\RightDiagonal\obj\Debug\net5.0\RightDiagonal.csprojAssemblyReference.cache
+D:\College\Spring\Advanced OOP\Labs\Projects\RightDiagonal\obj\Debug\net5.0\RightDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\Spring\Advanced OOP\Labs\Projects\RightDiagonal\obj\Debug\net5.0\RightDiagonal.AssemblyInfoInputs.cache
+D:\College\Spring\Advanced OOP\Labs\Projects\RightDiagonal\obj\Debug\net5.0\RightDiagonal.AssemblyInfo.cs
+D:\College\Spring\Advanced OOP\Labs\Projects\RightDiagonal\obj\Debug\net5.0\RightDiagonal.csproj.CoreCompileInputs.cache
+D:\College\Spring\Advanced OOP\Labs\Projects\RightDiagonal\obj\Debug\net5.0\RightDiagonal.dll
+D:\College\Spring\Advanced OOP\Labs\Projects\RightDiagonal\obj\Debug\net5.0\ref\RightDiagonal.dll
+D:\College\Spring\Advanced OOP\Labs\Projects\RightDiagonal\obj\Debug\net5.0\RightDiagonal.pdb
+D:\College\Spring\Advanced OOP\Labs\Projects\RightDiagonal\obj\Debug\net5.0\RightDiagonal.genruntimeconfig.cache
