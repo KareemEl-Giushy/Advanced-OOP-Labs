@@ -1,0 +1,16 @@
+D:\College\Spring\Advanced OOP\Labs\Projects\MatrixSummation\bin\Debug\net5.0\MatrixSummation.exe
+D:\College\Spring\Advanced OOP\Labs\Projects\MatrixSummation\bin\Debug\net5.0\MatrixSummation.deps.json
+D:\College\Spring\Advanced OOP\Labs\Projects\MatrixSummation\bin\Debug\net5.0\MatrixSummation.runtimeconfig.json
+D:\College\Spring\Advanced OOP\Labs\Projects\MatrixSummation\bin\Debug\net5.0\MatrixSummation.runtimeconfig.dev.json
+D:\College\Spring\Advanced OOP\Labs\Projects\MatrixSummation\bin\Debug\net5.0\MatrixSummation.dll
+D:\College\Spring\Advanced OOP\Labs\Projects\MatrixSummation\bin\Debug\net5.0\ref\MatrixSummation.dll
+D:\College\Spring\Advanced OOP\Labs\Projects\MatrixSummation\bin\Debug\net5.0\MatrixSummation.pdb
+D:\College\Spring\Advanced OOP\Labs\Projects\MatrixSummation\obj\Debug\net5.0\MatrixSummation.csprojAssemblyReference.cache
+D:\College\Spring\Advanced OOP\Labs\Projects\MatrixSummation\obj\Debug\net5.0\MatrixSummation.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\Spring\Advanced OOP\Labs\Projects\MatrixSummation\obj\Debug\net5.0\MatrixSummation.AssemblyInfoInputs.cache
+D:\College\Spring\Advanced OOP\Labs\Projects\MatrixSummation\obj\Debug\net5.0\MatrixSummation.AssemblyInfo.cs
+D:\College\Spring\Advanced OOP\Labs\Projects\MatrixSummation\obj\Debug\net5.0\MatrixSummation.csproj.CoreCompileInputs.cache
+D:\College\Spring\Advanced OOP\Labs\Projects\MatrixSummation\obj\Debug\net5.0\MatrixSummation.dll
+D:\College\Spring\Advanced OOP\Labs\Projects\MatrixSummation\obj\Debug\net5.0\ref\MatrixSummation.dll
+D:\College\Spring\Advanced OOP\Labs\Projects\MatrixSummation\obj\Debug\net5.0\MatrixSummation.pdb
+D:\College\Spring\Advanced OOP\Labs\Projects\MatrixSummation\obj\Debug\net5.0\MatrixSummation.genruntimeconfig.cache
