@@ -1,0 +1,16 @@
+D:\College\Spring\Advanced OOP\Labs\Projects\Transpose\obj\Debug\net5.0\Transpose.csprojAssemblyReference.cache
+D:\College\Spring\Advanced OOP\Labs\Projects\Transpose\obj\Debug\net5.0\Transpose.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\Spring\Advanced OOP\Labs\Projects\Transpose\obj\Debug\net5.0\Transpose.AssemblyInfoInputs.cache
+D:\College\Spring\Advanced OOP\Labs\Projects\Transpose\obj\Debug\net5.0\Transpose.AssemblyInfo.cs
+D:\College\Spring\Advanced OOP\Labs\Projects\Transpose\obj\Debug\net5.0\Transpose.csproj.CoreCompileInputs.cache
+D:\College\Spring\Advanced OOP\Labs\Projects\Transpose\bin\Debug\net5.0\Transpose.exe
+D:\College\Spring\Advanced OOP\Labs\Projects\Transpose\bin\Debug\net5.0\Transpose.deps.json
+D:\College\Spring\Advanced OOP\Labs\Projects\Transpose\bin\Debug\net5.0\Transpose.runtimeconfig.json
+D:\College\Spring\Advanced OOP\Labs\Projects\Transpose\bin\Debug\net5.0\Transpose.runtimeconfig.dev.json
+D:\College\Spring\Advanced OOP\Labs\Projects\Transpose\bin\Debug\net5.0\Transpose.dll
+D:\College\Spring\Advanced OOP\Labs\Projects\Transpose\bin\Debug\net5.0\ref\Transpose.dll
+D:\College\Spring\Advanced OOP\Labs\Projects\Transpose\bin\Debug\net5.0\Transpose.pdb
+D:\College\Spring\Advanced OOP\Labs\Projects\Transpose\obj\Debug\net5.0\Transpose.dll
+D:\College\Spring\Advanced OOP\Labs\Projects\Transpose\obj\Debug\net5.0\ref\Transpose.dll
+D:\College\Spring\Advanced OOP\Labs\Projects\Transpose\obj\Debug\net5.0\Transpose.pdb
+D:\College\Spring\Advanced OOP\Labs\Projects\Transpose\obj\Debug\net5.0\Transpose.genruntimeconfig.cache
